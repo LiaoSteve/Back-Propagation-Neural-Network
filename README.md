@@ -1,4 +1,4 @@
-# Mutilayer-Perceptrons
+# Back-propagation-Neural-Network
 using neural newwork with back propagation learning function : y = x1^2 +x2^2 
 * Neural: 10, lr:1, momenton: 0
 ![image](https://github.com/LiaoSteve/Back-propagation-Neural-Network/blob/master/2019-11-03_19-58-12.png)
